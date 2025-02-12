@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+    <head>
+        <!-- Título -->
+        <meta charset="utf-8">
+        <title>Marc Marquez impresiona con la nueva Ducati.</title>
+        <meta name="keywords" content="MotoGP, Marc Marquez, Ducati, motos">
+        <meta name="description" content="Impresionante debut de Marc Marquez con la Ducati.">
+        <meta name="author" content="Adrián Bolinches">
+        <link rel="alternate" type="application/rss+xml" title="Noticias MotoGP" href="feed.xml">
+    </head>
+    <body>
+        <!-- Contenido de la noticia -->
+        <h1>Marc Marquez mete miedo</h1>
+        <p>Marc Márquez, a pesar de ponerse un 8 de nota, se pudo ir con muy, muy buen sabor de boca de las tres jornadas de test de pretemporada de MotoGP en el circuito de Sepang.</p>
+        <p>El piloto de Cervera, que se subía por primera vez a la Ducati, dejó claro que es un piloto de otra galaxia y que, a pesar de no haberse subido a una moto desde el pasado 17 de julio, sigue siendo uno de los más grandes de la historia.</p>
+        <p>Entre los tres días, el de Cervera completó un total de 169 vueltas, lo que supone un bagaje de 937 kilómetros con la nueva Ducati.</p>
+        <p>Eso sí, lo más destacado llegó en un simulacro de lo que sería una carrera Sprint a diez vueltas. Y Marc, a pesar de no haber marcado el mejor tiempo, fue el más rápido, incluso por delante de Pecco Bagnaia.</p>
+        <!--Foto de Marc-->
+        <img src="https://images.daznservices.com/di/library/DAZN_News/94/1c/marc-marquez-ducati-test-motogp-2025-barcelona_1usar7uskc1bu1srql4syy34gt.png?t=1163883859" width="50%" alt="Imagen de Marc Marquez con la Ducati">
+        <h2>Titulos Mundiales</h2>
+        <!--Tabla de datos-->
+        <table border= 3>
+            <tr>
+                <th>Categoria</th>
+                <th>Equipo</th>
+                <th>Año</th>
+            </tr>
+            <tr>
+                <td>Mundial de Moto 3</td>
+                <td>Red Bull Ajo Motorsport</td>
+                <td>2010</td>
+            </tr>
+            <tr>
+                <td>Mundial de Moto2</td>
+                <td>Team Catalunya Caixa Repsol</td>
+                <td>2012</td>
+            </tr>
+            <tr>
+                <td>Mundial de MotoGP</td>
+                <td>Repsol Honda</td>
+                <td>2013, 2014, 2016, 2017, 2018, 2019</td>
+            </tr>                
+        </table>
+        <footer>
+            <p>Creado por Adrián Bolinches, basado en el artículo de DAZN y la sexta</p>
+        </footer>               
+    </body>
+</html>
