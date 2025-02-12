@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias MotoGP</title>
+        <link>https://github.com/Ardillan22/Asir.git
+        <description>Últimas noticias sobre MotoGP y Marc Márquez</description>
+        <language>es</language>
+        <lastBuildDate>Tue, 12 Feb 2025 11:32:00 GMT</lastBuildDate>
+        <item>
+            <title>Marc Márquez impresiona con la nueva Ducati</title>
+            <description>Impresionante debut de Marc Márquez con la Ducati en los test de pretemporada en Sepang.</description>
+            <author>Adrián Bolinches</author>
+            <pubDate>Tue, 12 Feb 2025 12:55:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
