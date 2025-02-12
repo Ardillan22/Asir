@@ -3,7 +3,7 @@
     <channel>
         <title>Noticias MotoGP</title>
         <link>https://ardillan22.github.io/Asir/</link>
-        <atom:link href="https://ardillan22.github.io/Asir/feed.rss" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ardillan22.github.io/Asir/feed.rss" rel="self" type="application/rss+xml"/>
         <description>Últimas noticias sobre MotoGP y Marc Márquez</description>
         <language>es</language>
         <lastBuildDate>Wed, 12 Feb 2025 11:32:00 GMT</lastBuildDate>
