@@ -16,7 +16,7 @@
             <author>adrian.blnchs@gmail.com (Adrián Bolinches)</author>
             <pubDate>Wed, 12 Feb 2025 11:32:00 GMT</pubDate>
             <category>Ducati</category>
-            <enclosure url="https://cdn-8.motorsport.com/images/amp/YEQPy7LY/s1000/jack-miller-ducati-team-1.jpg" type="image/jpeg" length="250" />
+            <enclosure url="https://cdn-8.motorsport.com/images/amp/YEQPy7LY/s1000/jack-miller-ducati-team-1.jpg" type="image/jpeg" length="150000" />
         </item>
 
         <item>
@@ -27,7 +27,7 @@
             <author>adrian.blnchs@gmail.com (Adrián Bolinches)</author>
             <pubDate>Wed, 5 Feb 2025 11:32:00 GMT</pubDate>
             <category>Circuitos</category>
-            <enclosure url="https://www.carsforsmiles.org/wp-content/uploads/cars-for-smiles-patrocinadores-colaboradores_0001s_0008_Capa-42.jpg" type="image/jpeg" length="250" />
+            <enclosure url="https://www.carsforsmiles.org/wp-content/uploads/cars-for-smiles-patrocinadores-colaboradores_0001s_0008_Capa-42.jpg" type="image/jpeg" length="50000" />
             
         </item>
 
@@ -39,7 +39,7 @@
             <author>adrian.blnchs@gmail.com (Adrián Bolinches)</author>
             <pubDate>Wed, 5 Feb 2025 11:33:00 GMT</pubDate>
             <category>Michelin</category>
-            <enclosure url="https://rcmotos.es/6899-large_default/logo-michelin.jpg" type="image/jpeg" length="250" />
+            <enclosure url="https://rcmotos.es/6899-large_default/logo-michelin.jpg" type="image/jpeg" length="20000" />
         </item>
     </channel>
 </rss>
