@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Noticias MotoGP</title>
@@ -7,28 +7,31 @@
         <description>Últimas noticias sobre MotoGP y Marc Márquez</description>
         <language>es</language>
         <lastBuildDate>Wed, 12 Feb 2025 11:32:00 GMT</lastBuildDate>
+
         <item>
             <title>Marc Márquez impresiona con la nueva Ducati</title>
             <link>https://ardillan22.github.io/Asir/index.html</link>
             <guid isPermaLink="true">https://ardillan22.github.io/Asir/index.html</guid>
             <description><![CDATA[Impresionante debut de Marc Márquez con la Ducati en los test de pretemporada en Sepang.]]></description>
-            <author>adrian.blnchs@gmail.com Adrian bol</author>
+            <author>adrian.blnchs@gmail.com (Adrián Bolinches)</author>
             <pubDate>Wed, 12 Feb 2025 11:32:00 GMT</pubDate>
         </item>
+
         <item>
-        <title>Barcelona-Catalunya se garantiza MotoGP hasta 2031</title>
+            <title>Barcelona-Catalunya se garantiza MotoGP hasta 2031</title>
             <link>https://www.mundodeportivo.com/motor/motogp/20250212/1002406084/circuito-montmelo-barcelona-retendra-gran-premio-motogp-ano-2031.html</link>
             <guid isPermaLink="true">https://www.mundodeportivo.com/motor/motogp/20250212/1002406084/circuito-montmelo-barcelona-retendra-gran-premio-motogp-ano-2031.html</guid>
-            <description><![CDATA[Barcelona-Catalunya se pone a la altura de los dos circuitos que tenían el compromiso más largo con Dorna, Lusail y Assen; resta por desvelarse si entrará en el sistema de rotaciones ibéricas a partir de 2028]]></description>
-            <author>adrian.blnchs@gmail.com Adrian bol</author>
+            <description><![CDATA[Barcelona-Catalunya se pone a la altura de los dos circuitos que tenían el compromiso más largo con Dorna, Lusail y Assen; resta por desvelarse si entrará en el sistema de rotaciones ibéricas a partir de 2028.]]></description>
+            <author>adrian.blnchs@gmail.com (Adrián Bolinches)</author>
             <pubDate>Wed, 5 Feb 2025 11:32:00 GMT</pubDate>
         </item>
+
         <item>
-        <title>Michelin lanza una seria advertencia a Aprilia por lo de Jorge Martín: "Estamos dispuestos"</title>
+            <title>Michelin lanza una seria advertencia a Aprilia por lo de Jorge Martín: "Estamos dispuestos"</title>
             <link>https://www.mundodeportivo.com/motor/motogp/20250212/1002406357/michelin-lanza-dura-advertencia-aprilia-jorge-martin-dispuestos-smd.html</link>
             <guid isPermaLink="true">https://www.mundodeportivo.com/motor/motogp/20250212/1002406357/michelin-lanza-dura-advertencia-aprilia-jorge-martin-dispuestos-smd.html</guid>
-            <description><![CDATA[Piero Taramasso, director de Michelin Motorsport, asevera que "no quiero hacer más comentarios" sobre el accidente del campeón del mundo de MotoGP en el test de Sepang]]></description>
-            <author>adrian.blnchs@gmail.com Adrian bol</author>
+            <description><![CDATA[Piero Taramasso, director de Michelin Motorsport, asevera que "no quiero hacer más comentarios" sobre el accidente del campeón del mundo de MotoGP en el test de Sepang.]]></description>
+            <author>adrian.blnchs@gmail.com (Adrián Bolinches)</author>
             <pubDate>Wed, 5 Feb 2025 11:33:00 GMT</pubDate>
         </item>
     </channel>
